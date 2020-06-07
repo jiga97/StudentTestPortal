@@ -1,43 +1,41 @@
 # StudentTestPortal
 
- As part of a varsity assignment. I created a Windows application that allows lectures to create a test consisting of multiple choice questions, which the students can then answer on this application.
+As part of being an varisty college student, We were given an assignment to complete, which requred us to create a multiple choice test using visual studio. This would allow the lecturer to set and create a test allowing students to participate and complete the online test using the application developed.
 
-The lecture is logging in which will bring up the lecture form
+I created a windows application which had checked all the requirements as requested with an fully funtional application.
+
+The login screen is used by both lecturer and students and they both are sent to the correct portal repsectively.
 
 ![Login Screen](ScreenShots/Login%20lecturer.PNG)
 
-When the mouse has clicked edit users, change test or results, the program will bring up the respected pages
+Once the lecturer has logged in the applications sends the lecturer to the Teachers Dashboard.
 
-![Lecturer Home](ReadMeImages/Lecturer%20Home.jpg)
+![Teachers Dashboard](ScreenShots/Teachers%20Dashboard.PNG)
 
-Dummy data is inputted into for the purpose of this demonstration. Data has been placed into the create student form.
+The lecturer is able to create a test for the students to complete.
 
-![Lecturer Create Student](ReadMeImages/Lecturer%20Create%20Student.jpg)
+![Create Test](ScreenShots/Add%20test.PNG)
 
-Once the create button has been pressed, the application will notify the user that the user has been added to the database
+The lecturer can view marks of all previous students whom have completed the test.
 
-![Lecturer Saved Student](ReadMeImages/Lecturer%20Saved%20Student.jpg)
+![View Marks](ScreenShots/View%20marks.PNG)
 
-Once the user has confirmed to delete the selected user, the application will notify the user that the deletion was successful.
+The lecturer can register another student or lecturer using this screen, and the user will be given a defualt password.
 
-![Lecturer Delete Student](ReadMeImages/Lecturer%20Delete%20Student.jpg)
+![Register User](ScreenShots/add%20users.PNG)
 
-When the user clicks on change test on the main menu, the application will present the user with this page, allowing them to have multiple actions, create, change and delete.
+Incase your account has been comprimised you are able to change your password.
 
-![Lecturer View Tests](ReadMeImages/Lecturer%20View%20Tests.jpg)
+![Change Password](ScreenShots/changePassword.PNG)
 
-When the user selects a new test, they will be presented with the Test page, allowing the user to add questions to a new Test. The dummy data is entered to show the result of creating a test.
+This is the student main screen, where they are able to take a test
 
-![Lecturer Create Test](ReadMeImages/Lecturer%20Create%20Test.jpg)
+![Student Portal](ScreenShots/student%20portal.PNG)
 
-If the user selects the Results from the main menu, they will see this page, allowing them to view each student mark as well as the highest, lowest and average mark for the test to evaluate its difficulty.
+If the student decided to participate in the test they are taken to the take test screen, where they are able to complete the test.
 
-![Lecturer View Results](ReadMeImages/Lecturer%20View%20Results.jpg)
+![Take Test](ScreenShots/take%20test.PNG)
 
-The test data is used to log in, thus having no test marks since it’s a new account.  The application will know if the user has written a test or not, the button will change if the student has written the test before, for testing purposes, the new user will write a test. After writing the test, the program will know if the user has done it and will show the corresponding mark that they got as well as change the buttons function to review test when a done test has been selected.
+Once the user completes the test they will be able to view the memo, and they percentage will be displayed.
 
-![Student Review Marks And Pending Tests](ReadMeImages/Student%20Review%20Marks%20And%20Pending%20Tests.jpg)
-
-Once the user selects a test, in this case, it was the first test in the list. The user will not be able to click finish before the test has been complete.
-
-![Student Take Test](ReadMeImages/Student%20Take%20Test.jpg)
+![View Memo](ScreenShots/View%20memo.PNG)
