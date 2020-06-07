@@ -7,3 +7,5 @@ password: 11223344
 for lecturer
 username: DanE
 password: Password12345
+
+newly created users have a default password: Password1
