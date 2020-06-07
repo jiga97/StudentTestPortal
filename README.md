@@ -4,7 +4,7 @@
 
 The lecture is logging in which will bring up the lecture form
 
-![Login Screen](ScreenShots/Login%20lecturer.jpg)
+![Login Screen](ScreenShots/Login%20lecturer.PNG)
 
 When the mouse has clicked edit users, change test or results, the program will bring up the respected pages
 
