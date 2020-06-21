@@ -1,6 +1,6 @@
 # StudentTestPortal
 
-As part of being an varisty college student, We were given an assignment to complete, which requred us to create a multiple choice test using visual studio. This would allow the lecturer to set and create a test allowing students to participate and complete the online test using the application developed.
+As part of being an varisty college student, I create a multiple choice test using visual studio. This would allow the lecturer to set and create a test allowing students to participate and complete the online test using the application developed.
 
 I created a windows application which had checked all the requirements as requested with an fully funtional application.
 
